@@ -73,3 +73,34 @@ Here are some ideas to get you started:
 | --- | --- |
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianoDinh&show_icons=true&theme=gruvbox&locale=ar) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoDinh&layout=compact&locale=ar) |
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianoDinh&show_icons=true&theme=gruvbox&locale=cn) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoDinh&layout=compact&locale=cn) |
+
+### Top Repositories
+
+<a href="https://github.com/CristianoDinh/interdata-cli">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=interdata-cli&theme=buefy" />
+</a>
+<a href="https://github.com/CristianoDinh/data-career-insights-analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=data-career-insights-analysis&theme=buefy" />
+</a>
+<a href="https://github.com/CristianoDinh/men-accessories-store">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=men-accessories-store&theme=buefy" />
+</a>
+<a href="https://github.com/CristianoDinh/men-accessories-store">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=men-accessories-store&theme=buefy" />
+</a>
+
+
+<br></br>
+<!-- Contact -->
+<a href="https://www.linkedin.com/in/dinhgiabao/">
+  <img align="right" alt="GIA BAO DINH | LinkedIn" width="32px" src="./assets/linkedIn.png" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100030505700817">
+  <img align="right" alt="Bảo Bảo | Facebook" width="32px" src="https://github.com/github/explore/blob/main/topics/facebook/facebook.png" />
+</a>
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="32px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/g_.baoo?igsh=c2YzdHFlM2dmMWdt">
+  <img align="right" alt="g_.baoo | Instagram" width="32px" src="https://github.com/github/explore/blob/main/topics/instagram/instagram.png" />
+</a>
