@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 ### About me
-- 💼 Backend Developer at [InterData](http://interdata.com.vn/)
+- 💼 Backend Developer at [InterData](http://interdata.com.vn/) [from Jan2024 -> **now**]
 
 - 📈 Creating github projects relevant to **[BackEnd, Data Analysis, Data Engineering]** and more, **00K+** hits • **00K** stars on GitHub
 
@@ -50,12 +50,15 @@ Here are some ideas to get you started:
 <code><img height="20" alt="Laravel" src="https://github.com/github/explore/blob/main/topics/laravel/laravel.png"></code>
 
 - **Databases:**
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="SQL Server" src="https://github.com/github/explore/blob/main/topics/sql-server/sql-server.png"></code>
+<code><img height="20" alt="Postgre SQL" src="https://github.com/github/explore/blob/main/topics/postgresql/postgresql.png"></code>
+<code><img height="20" alt="MySQL" src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png"></code>
 
 - **Others:**
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+<code><img height="20" alt="Docker" src="https://github.com/github/explore/blob/main/topics/docker/docker.png"></code>
+<code><img height="20" alt="Kubernets" src="https://github.com/github/explore/blob/main/topics/kubernetes/kubernetes.png"></code>
+<code><img height="20" alt="Jenkins" src="https://github.com/github/explore/blob/main/topics/jenkins/jenkins.png"></code>
+<code><img height="20" alt="GitHub Actions" src="https://github.com/github/explore/blob/main/topics/actions/actions.png"></code>
+<code><img height="20" alt="AWS" src="https://github.com/github/explore/blob/main/topics/aws/aws.png"></code>
+<code><img height="20" alt="Heroku" src="https://github.com/github/explore/blob/main/topics/heroku/heroku.png"></code>   
 
