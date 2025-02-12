@@ -63,3 +63,13 @@ Here are some ideas to get you started:
 <code><img height="20" alt="AWS" src="https://github.com/github/explore/blob/main/topics/aws/aws.png"></code>
 <code><img height="20" alt="Heroku" src="https://github.com/github/explore/blob/main/topics/heroku/heroku.png"></code>   
 
+<!--
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+-->
+<br>
+
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianoDinh&show_icons=true&theme=gruvbox&locale=en) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoDinh&layout=compact&locale=en) |
+| --- | --- |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianoDinh&show_icons=true&theme=gruvbox&locale=ar) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoDinh&layout=compact&locale=ar) |
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianoDinh&show_icons=true&theme=gruvbox&locale=cn) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoDinh&layout=compact&locale=cn) |
