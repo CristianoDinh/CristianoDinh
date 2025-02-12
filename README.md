@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 <code><img height="20" alt="MySQL" src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png"></code>
 
 - **Others:**
+<code><img height="20" alt="Docker" src="https://github.com/github/explore/blob/main/topics/git/git.png"></code>
 <code><img height="20" alt="Docker" src="https://github.com/github/explore/blob/main/topics/docker/docker.png"></code>
 <code><img height="20" alt="Kubernets" src="https://github.com/github/explore/blob/main/topics/kubernetes/kubernetes.png"></code>
 <code><img height="20" alt="Jenkins" src="https://github.com/github/explore/blob/main/topics/jenkins/jenkins.png"></code>
