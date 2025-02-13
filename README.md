@@ -33,10 +33,13 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about anything [here](https://github.com/CristianoDinh/CristianoDinh/issues)
 
-- #### Certificates :
-<a href="https://github.com/CristianoDinh/my-certificate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=my-certificate&theme=merko&show_icons=true" />
-</a>
+- **Achievements :** 
+<p align="center">
+  <a href="https://github.com/CristianoDinh/my-certificate">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=my-certificate&theme=merko&show_icons=true" />
+  </a>
+</p>
+
 
 
 ### Tech Skills
