@@ -84,24 +84,7 @@ Here are some ideas to get you started:
 
 ### Top Repositories
 
-<a href="https://github.com/CristianoDinh/interdata-cli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=interdata-cli&theme=buefy" />
-</a>
-<a href="https://github.com/CristianoDinh/men-accessories-store">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=men-accessories-store&theme=buefy" />
-</a>
-<a href="https://github.com/CristianoDinh/data-career-insights-analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=data-career-insights-analysis&theme=buefy" />
-</a>
-<a href="<a href="https://github.com/CristianoDinh/milk-tea-shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=milk-tea-shop&theme=buefy" />
-</a>
-<a href="<a href="https://github.com/CristianoDinh/TGDD-database-design">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=TGDD-database-design&theme=buefy" />
-</a>
-<a href="https://github.com/CristianoDinh/hotel-management">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=hotel-management&theme=buefy" />
-</a>
+
 
 
 <br></br>
