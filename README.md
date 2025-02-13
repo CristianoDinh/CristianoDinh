@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 </p>
 
 
-
 ### Tech Skills
 
 - **Languages:**
@@ -91,7 +90,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/CristianoDinh/data-career-insights-analysis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=data-career-insights-analysis&theme=buefy" />
 </a>
-
+<a href="https://github.com/CristianoDinh/men-accessories-store">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=men-accessories-store&theme=buefy" />
+</a>
 <a href="https://github.com/CristianoDinh/hotel-management">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=hotel-management&theme=buefy" />
 </a>
