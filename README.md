@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 - **Languages:**
 <code><img height="20" alt="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" alt="Python" src="https://github.com/github/explore/blob/main/topics/python/python.png"></code>
+<code><img height="20" alt="R" src="https://github.com/github/explore/blob/main/topics/r/r.png"></code>
 <code><img height="20" alt="JavaScript" src="https://github.com/github/explore/blob/main/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="PHP" src="https://github.com/github/explore/blob/main/topics/php/php.png"></code>
 <code><img height="20" alt="C" src="https://github.com/github/explore/blob/main/topics/c/c.png"></code>
