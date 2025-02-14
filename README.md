@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 <a href="<a href="https://github.com/CristianoDinh/milk-tea-shop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=milk-tea-shop&theme=solarized-light" />
 </a>
-<a href="<a href="https://github.com/CristianoDinh/TGDD-database-design">
+<a href="https://github.com/CristianoDinh/TGDD-database-design">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=TGDD-database-design&theme=gruvbox_light" />
 </a>
 <a href="https://github.com/CristianoDinh/hotel-management">
