@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - **Achievements :** 
 <p align="center">
   <a href="https://github.com/CristianoDinh/my-certificate">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=my-certificate&theme=merko&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=my-certificate&show_icons=true" />
   </a>
 </p>
 
@@ -83,7 +83,24 @@ Here are some ideas to get you started:
 |![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianoDinh&show_icons=true&theme=gruvbox&locale=cn) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoDinh&layout=compact&locale=cn) |
 
 ### Top Repositories
-
+<a href="https://github.com/CristianoDinh/interdata-cli">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=interdata-cli&theme=gruvbox_light" />
+</a>
+<a href="https://github.com/CristianoDinh/men-accessories-store">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=men-accessories-store&theme=solarized-light" />
+</a>
+<a href="https://github.com/CristianoDinh/data-career-insights-analysis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=data-career-insights-analysis&theme=gruvbox_light" />
+</a>
+<a href="<a href="https://github.com/CristianoDinh/milk-tea-shop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=milk-tea-shop&theme=solarized-light" />
+</a>
+<a href="<a href="https://github.com/CristianoDinh/TGDD-database-design">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=TGDD-database-design&theme=gruvbox_light" />
+</a>
+<a href="https://github.com/CristianoDinh/hotel-management">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=hotel-management&theme=solarized-light" />
+</a>
 
 
 
