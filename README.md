@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - **Achievements :** 
 <p align="center">
   <a href="https://github.com/CristianoDinh/my-certificate">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=my-certificate&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=my-certificate&show_icons=true&theme=ambient_gradient" />
   </a>
 </p>
 
