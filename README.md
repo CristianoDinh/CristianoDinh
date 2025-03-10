@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - **Achievements :** 
 <p align="center">
   <a href="https://github.com/CristianoDinh/my-certificate">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=my-certificate&show_icons=true&theme=ambient_gradient" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=my-certificate&show_icons=true&theme=ambient_gradient" alt="my-certificate"/>
   </a>
 </p>
 
@@ -78,10 +78,10 @@ Here are some ideas to get you started:
 -->
 <br>
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianoDinh&show_icons=true&theme=gruvbox&locale=en) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoDinh&layout=compact&locale=en) |
+| ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianoDinh&show_icons=true&theme=gruvbox&locale=en) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoDinh&layout=compact&locale=en) |
 | --- | --- |
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianoDinh&show_icons=true&theme=gruvbox&locale=ar) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoDinh&layout=compact&locale=ar) |
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianoDinh&show_icons=true&theme=gruvbox&locale=cn) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoDinh&layout=compact&locale=cn) |
+| ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianoDinh&show_icons=true&theme=gruvbox&locale=ar) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoDinh&layout=compact&locale=ar) |
+|![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianoDinh&show_icons=true&theme=gruvbox&locale=cn) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoDinh&layout=compact&locale=cn) |
 
 ### Top Repositories
 <a href="https://github.com/CristianoDinh/interdata-cli">
@@ -91,16 +91,16 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=men-accessories-store&theme=solarized-light" />
 </a>
 <a href="https://github.com/CristianoDinh/data-career-insights-analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=data-career-insights-analysis&theme=gruvbox_light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=data-career-insights-analysis&theme=gruvbox_light" alt="data-career-insights-analysis"/>
 </a>
 <a href="<a href="https://github.com/CristianoDinh/milk-tea-shop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=milk-tea-shop&theme=solarized-light" />
 </a>
 <a href="https://github.com/CristianoDinh/TGDD-database-design">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=TGDD-database-design&theme=gruvbox_light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=TGDD-database-design&theme=gruvbox_light" alt="TGDD-database-design"/>
 </a>
 <a href="https://github.com/CristianoDinh/hotel-management">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=hotel-management&theme=solarized-light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=hotel-management&theme=solarized-light" alt="hotel-management"/>
 </a>
 
 
