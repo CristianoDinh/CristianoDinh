@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### About me
 - 💼 Fullstack Developer at [InterData](http://interdata.com.vn/) [from Jan2024 -> **now**]
 
-- 📈 Creating github projects relevant to **[BackEnd, Data Analysis, Data Engineering]** and more, **00K+** hits • **00K** stars on GitHub
+- 📈 Creating github projects relevant to **[BackEnd, Data Engineering, Data Analysis]** and more, **00K+** hits • **00K** stars on GitHub
 
 - ❤️ I love writing Java and Python, building robust data architecture, pipelines and some fun experiments on type-level
 
