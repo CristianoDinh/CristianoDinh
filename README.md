@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 - **Frameworks:**
 <code><img height="20" alt="Spring Boot" src="https://github.com/github/explore/blob/main/topics/spring-boot/spring-boot.png"></code>
-<code><img height="20" alt="Fast-API" src="https://github.com/github/explore/blob/main/topics/fastapi/fastapi.png"></code>
+<code><img height="20" alt="Flask-API" src="https://github.com/github/explore/blob/main/topics/flask/flask.png"></code>
 <code><img height="20" alt="Angular" src="https://github.com/github/explore/blob/main/topics/angular/angular.png"></code>
 <code><img height="20" alt="React" src="https://github.com/github/explore/blob/main/topics/react/react.png"></code>
 <code><img height="20" alt="Laravel" src="https://github.com/github/explore/blob/main/topics/laravel/laravel.png"></code>
