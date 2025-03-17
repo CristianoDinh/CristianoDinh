@@ -81,7 +81,6 @@ Here are some ideas to get you started:
 | ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianoDinh&show_icons=true&theme=gruvbox&locale=en) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoDinh&layout=compact&locale=en) |
 | --- | --- |
 | ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianoDinh&show_icons=true&theme=gruvbox&locale=ar) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoDinh&layout=compact&locale=ar) |
-|![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianoDinh&show_icons=true&theme=gruvbox&locale=cn) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianoDinh&layout=compact&locale=cn) |
 
 ### Top Repositories
 <a href="https://github.com/CristianoDinh/interdata-cli">
