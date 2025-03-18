@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 ### About me
-- 💼 Fullstack Developer at [InterData](http://interdata.com.vn/) [from Jan2024 -> **now**]
+- 💼 Fullstack Developer at [InterData](https://interdata.vn/) [from Jan2024 -> **now**]
 
 - 📈 Creating github projects relevant to **[BackEnd, Data Engineering, Data Analysis]** and more, **00K+** hits • **00K** stars on GitHub
 
