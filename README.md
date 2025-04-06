@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 ### About me
-- 💼 Fullstack Developer at [InterData](https://interdata.vn/) [from Jan2024 -> **now**]
+- 💼 Fullstack Developer at [InterData](https://interdata.vn/) [from Jan2025 -> Apr2025]
 
 - 📈 Creating github projects relevant to **[BackEnd, Data Engineering, Data Analysis]** and more, **00K+** hits • **00K** stars on GitHub
 
@@ -40,6 +40,10 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+- **Goal-Oriented project :** 
+<a href="https://github.com/CristianoDinh/vins-q12-fc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CristianoDinh&repo=vins-q12-fc&show_icons=true&theme=rose" />
+</a>
 
 ### Tech Skills
 
